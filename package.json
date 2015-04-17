@@ -22,10 +22,10 @@
     "handlebars": "^3.0.1",
     "socket.io-client": "^1.3.5",
     "uuid": "^2.0.1",
-    "webrtc2images": "^1.4.4"
+    "webrtc2images": "^1.4.4",
+    "hbsfy": "^2.2.1"
   },
   "devDependencies": {
-    "browserify": "^9.0.8",
-    "hbsfy": "^2.2.1"
+    "browserify": "^9.0.8"
   }
 }
